@@ -1,0 +1,8 @@
+{
+  "name": "FactoryBridge XR",
+  "description": "A multi-modal AI platform bridging field engineers and data scientists using Gemini 3 and Nano Banana Pro for industrial data capture, analysis, and dataset curation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
